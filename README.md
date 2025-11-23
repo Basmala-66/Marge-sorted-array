@@ -11,6 +11,8 @@ After inserting all nums2 values, apply Bubble Sort on nums1.
 nums1 becomes one sorted array in non-decreasing order.
 
 
+
+
 Approach:
 
 In-place merge by replacing zeros with nums2 elements.
